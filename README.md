@@ -1,5 +1,5 @@
 # README
-Test app
+Read me file modified
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
